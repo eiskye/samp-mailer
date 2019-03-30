@@ -1,0 +1,11 @@
+
+{
+	"user": "eiskye",
+	"repo": "samp-mailer",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": ["sampctl/samp-stdlib", "Southclaws/pawn-requests:0.8.6"],
+  "contributors": [
+		"Eiss"
+	]
+}
